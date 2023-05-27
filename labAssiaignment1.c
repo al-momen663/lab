@@ -25,6 +25,7 @@ void main()
 		break;
 	case 2:
 		printf("Multiplication of two numbers: %d\n", a * b); // processing data from choice and show output
+		break;
 
 	default:
 		printf("0\n"); // default result
